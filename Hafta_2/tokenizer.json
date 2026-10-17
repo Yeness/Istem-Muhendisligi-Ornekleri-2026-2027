@@ -1,0 +1,12 @@
+{
+    "The": 0,
+    "cat": 1,
+    "dog": 2,
+    "chased": 3,
+    "capital": 4,
+    "of": 5,
+    "France": 6,
+    "is": 7,
+    "<unk>": 8,
+    "the" : 9
+ }
